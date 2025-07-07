@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm Nivedita a 4th year computer science student at IIIT-Kottayam. <br>I enjoy blending machine learning with web development to build smart, creative, and sometimes chaotic projects.<br>💻I code in Python, JavaScript and Solidity and sometimes dabble in Bash<br>🌷I get excited about AI/ML, NLP, and anything that can automate the boring stuff.<br>💹Lately, I’ve been diving into finance and data, learning and experimenting as I go.<br><br>Let's Build, Break and Learn, shall we?
+Hi I'm Nivedita a 4th year computer science student at IIIT-Kottayam. <br>I enjoy blending machine learning with web development to build smart, creative, and sometimes chaotic projects.<br>💻I code in Python, JavaScript, C++, a bit of Java and Solidity and sometimes dabble in Bash<br>🌷I get excited about AI/ML, NLP, and anything that can automate the boring stuff.<br>💹Lately, I’ve been diving into finance and data, learning and experimenting as I go.<br><br>Let's Build, Break and Learn, shall we?
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cs-nivi/) 
